@@ -1,2 +1,2 @@
 # delta-demo
-this is only demo project 
+this is only demo project.
